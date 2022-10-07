@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 660797c4a86c56744ab5c2e30583a096
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Black Han Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f8a273260a11e794bbb6a29a9407a481, type: 3}
+  - {fileID: 12800000, guid: 5b5bb980e447e694f963a3e56e074e3b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
